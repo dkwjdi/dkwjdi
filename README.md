@@ -1,20 +1,43 @@
-### Hi there 👋
+### Hi there I'm JuneYoung Jung
 
-https://img.shields.io/badge/style-plastic-red?style=plastic
-```
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dkwjdi.tistory.com/)](https://dkwjdi.tistory.com/)
-```
-<!--
-**dkwjdi/dkwjdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+멋진 프론트엔드 개발자가 되고 싶은 주니어 개발자입니다!
 
-Here are some ideas to get you started:
+<h3>📚Go to my BLOG</h3> 
+<a href="https://dkwjdi.tistory.com">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://dkwjdi.tistory.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :pencil: Experiences
+
++ SSAFY 4기 - 2020.07~ 
+
+## :trophy: Awards
+
++ SSAFY 공통프로젝트 1등
++ SSAFY 특화프로젝트 수상결과 기다리는 중!
+
+## :star: Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" 
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+</p>
+
+
+
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dkwjdi)](https://solved.ac/dkwjdi)
+
+
+
+
+

@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+```
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dkwjdi.tistory.com/)](https://dkwjdi.tistory.com/)
+```
 <!--
 **dkwjdi/dkwjdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

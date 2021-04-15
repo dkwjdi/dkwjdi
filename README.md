@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+https://img.shields.io/badge/style-plastic-red?style=plastic
 ```
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dkwjdi.tistory.com/)](https://dkwjdi.tistory.com/)
 ```

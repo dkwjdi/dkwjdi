@@ -2,7 +2,7 @@
 
 멋진 프론트엔드 개발자가 되고 싶은 주니어 개발자입니다!
 
-<h3>📚Go to my BLOG</h3> 
+## >📚Go to my BLOG
 <a href="https://dkwjdi.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://dkwjdi.tistory.com"
@@ -34,7 +34,7 @@
 
 
 
-
+## 알고리즘
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dkwjdi)](https://solved.ac/dkwjdi)
 
 

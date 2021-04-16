@@ -16,7 +16,7 @@
 ## :trophy: Awards
 
 + SSAFY 공통프로젝트 1등
-+ SSAFY 특화프로젝트 수상결과 기다리는 중!
++ SSAFY 특화프로젝트 2등
 <br>
 
 

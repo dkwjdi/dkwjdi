@@ -6,18 +6,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+## :pencil: Portfolio
++ [포트폴리오](https://www.notion.so/June-Young-Jung-98357b012e394eaaa876b5f26a47bbc9)
 
-## :pencil: Experiences
-
-+ SSAFY 4기 - 2020.07~ 
-<br>
-
-
-## :trophy: Awards
-
-+ SSAFY 공통프로젝트 1등
-+ SSAFY 특화프로젝트 2등
-<br>
 
 
 ## :star: Stack

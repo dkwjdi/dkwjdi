@@ -11,7 +11,7 @@
 
 
 
-## :star: Stack
+<!-- ## :star: Stack
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" 
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
@@ -21,7 +21,7 @@
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
-</p>
+</p> -->
 
 
 <br>
